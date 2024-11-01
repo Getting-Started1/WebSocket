@@ -5,8 +5,8 @@
 #include <ESPAsyncWebServer.h>
 
 // Replace with your network credentials
-const char* ssid = "ELVIS";
-const char* password = "Gmunene@123";
+const char* ssid = "";
+const char* password = "";
 
 bool ledState = 0;
 const int ledPin = 19;
